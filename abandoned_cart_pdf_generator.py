@@ -1,4 +1,5 @@
 # Programa para Recuperação de Carrinhos Abandonados
+# Dados originados de lista em CSV
 
 import pandas as pd
 from reportlab.lib.pagesizes import letter
