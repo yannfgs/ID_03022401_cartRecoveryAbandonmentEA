@@ -1,3 +1,5 @@
+# Programa para Recuperação de Carrinhos Abandonados
+
 import pandas as pd
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
